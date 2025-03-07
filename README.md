@@ -11,7 +11,7 @@
 |--------------------------|-------------|--------|  
 | **Data Extraction**       | Extract the dummy dataset from the RPubs package and save it as `data_censored.csv`. | ✅ Complete |  
 | **Code Conversion**       | Convert the R code into Python (Jupyter Notebook) and replicate the results. | ⏳ In progress |  
-| **Version 2 (TTE-v2)**    | Create another copy, name it (`TTE-v2.ipynb`). | Not started |  
+| **Version 2 (TTE-v2)**    | Create a copy of the converted code, name it (`TTE-v2.ipynb`). | Not started |  
 | **Clustering Integration** | In (`TTE-v2.ipynb`) Identify a step where clustering can be applied, implement a suitable clustering algorithm, and analyze the impact. | Not started |  
 | **Insights & Analysis**   | Generate insights from the clustering results and document findings. | Not started |  
 | **Collaboration**         | Work in pairs (preferably with your thesis partner). | |  
